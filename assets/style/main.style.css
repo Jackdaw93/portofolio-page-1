@@ -1,0 +1,32 @@
+/* .col-md {
+  border: 1px solid black;
+} */
+#title,
+#nav-menu {
+    font-family: "Sriracha", cursive;
+}
+
+#name {
+    font-family: "Sonsie One", cursive;
+}
+
+#describe {
+    font-family: "Catamaran", sans-serif;
+}
+
+.navbar {
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+.container-md {
+    margin-top: 150px;
+}
+
+img {
+    margin-left: 10px;
+}
+
+a {
+    text-decoration: none;
+}
